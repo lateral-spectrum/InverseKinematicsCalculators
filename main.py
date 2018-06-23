@@ -1,6 +1,10 @@
 import math
 from output import *
 
+"""
+    Inverse Kinematics calculations for SCARA 3DOF robotic arm using trig.
+"""
+
 theta_2_positive = False
 target_x = 100
 target_y = 32
